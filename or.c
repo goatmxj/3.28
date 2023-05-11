@@ -1,3 +1,4 @@
+/*
 #include <stdio.h>
 main()
 {
@@ -7,3 +8,4 @@ main()
 
   printf("OR 연산 결과 : %d", c);
 }
+*/
